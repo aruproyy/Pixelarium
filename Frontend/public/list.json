@@ -1,0 +1,55 @@
+[
+    {
+        "id":1,
+        "name":"Serene Highlands",
+        "title":"Waves of Green: The Tranquil Beauty of Rolling Hills",
+        "price":"0",
+        "priceCategory":"Free",
+        "image": "https://images.unsplash.com/photo-1520312501384-dbdb83a1cb11?q=80&w=2400&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+
+    {
+        "id":2,
+        "name":"Iconic Kolkata Cab",
+        "title":"The Timeless Yellow Taxi of Kolkata",
+        "price":"0",
+        "priceCategory":"Free",
+        "image": "https://images.unsplash.com/photo-1630202328184-900c1190b790?q=80&w=2874&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+
+    {
+        "id":3,
+        "name":"Joyous Explosion",
+        "title":"Burst of Colors: Celebrating Holi in Full Spirit",
+        "price":"0",
+        "priceCategory":"Free",
+        "image": "https://images.unsplash.com/photo-1595567582054-f2f0a1940235?q=80&w=2946&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+
+    {
+        "id":4,
+        "name":"Golden Sunset",
+        "title":"The Silhouette of Dusk",
+        "price":"0",
+        "priceCategory":"Free",
+        "image": "https://images.unsplash.com/photo-1695825917972-884fc5b99286?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+
+    {
+        "id":5,
+        "name":"Majestic Sentinel",
+        "title":"A Regal Lion Overlooking the Sunset: The Essence of Royalty and Wilderness",
+        "price":"0",
+        "priceCategory":"Free",
+        "image": "https://images.unsplash.com/photo-1516728918023-0fd81a3a149c?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+
+    {
+        "id":6,
+        "name":"Mountain Serenity",
+        "title":"A Tranquil Town Reflected: Serenity by the Mountain Lake",
+        "price":"0",
+        "priceCategory":"Free",
+        "image": "https://plus.unsplash.com/premium_photo-1697729690458-2d64ca777c04?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    }
+]

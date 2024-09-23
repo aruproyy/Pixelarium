@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "name": "Golden Bloom",
+        "title": "A Beautiful Field of Sunflowers Bathed in the Warm Glow of the Setting Sun",
+        "price": "0",
+        "priceCategory": "Free",
+        "image": "https://images.unsplash.com/photo-1500320821405-8fc1732209ca?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+        "id": 2,
+        "name": "Happy Pup",
+        "title": "Smiling Dog Among Autumn Leaves",
+        "price": "0",
+        "priceCategory": "Free",
+        "image": "https://images.unsplash.com/photo-1475954704693-ac6850a71ee0?q=80&w=2560&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+        "id": 3,
+        "name": "Ganesha",
+        "title": "The Remover of Obstacles",
+        "price": "0",
+        "priceCategory": "Free",
+        "image": "https://images.unsplash.com/photo-1725776311683-f10492fa8855?q=80&w=2922&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+        "id": 4,
+        "name": "Ember",
+        "title": "A Spark of Nature",
+        "price": "0",
+        "priceCategory": "Free",
+        "image": "https://images.unsplash.com/photo-1726674472959-2c1c6c6ce8ae?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+        "id": 5,
+        "name": "Serenity's Reflection",
+        "title": "Winter's Peaceful Embrace",
+        "price": "0",
+        "priceCategory": "Free",
+        "image": "https://images.unsplash.com/photo-1455156218388-5e61b526818b?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+        "id": 6,
+        "name": "Coastal Charmers",
+        "title": "A Puffin Gathering",
+        "price": "0",
+        "priceCategory": "Free",
+        "image": "https://images.unsplash.com/photo-1725748075868-142f6649c928?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+        "id": 7,
+        "name": "Flower Field",
+        "title": "A Colorful Display of Wildflowers in Bloom",
+        "price": "0",
+        "priceCategory": "Free",
+        "image": "https://images.unsplash.com/photo-1491851687212-8f76f6e38d7e?q=80&w=2400&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+        "id": 8,
+        "name": "Snowy Forest",
+        "title": "A Winter Wonderland: Trees Covered in Snow",
+        "price": "0",
+        "priceCategory": "Free",
+        "image": "https://images.unsplash.com/photo-1543272443-bc48be9d9d44?q=80&w=2400&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+        "id": 9,
+        "name": "Rocky Shore",
+        "title": "Waves Crashing Against a Rugged Coastline",
+        "price": "0",
+        "priceCategory": "Free",
+        "image": "https://images.unsplash.com/photo-1506748686214-df6bafed46e3?q=80&w=2400&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    }
+]
